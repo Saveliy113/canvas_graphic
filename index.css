@@ -22,5 +22,7 @@ body {
     padding: 1rem;
     -webkit-box-shadow: 2px 3px 10px rgba(0, 0, 0, 0.2);
             box-shadow: 2px 3px 10px rgba(0, 0, 0, 0.2); }
+  .container canvas {
+    border: 1px solid black; }
 
 /*# sourceMappingURL=index.css.map */
